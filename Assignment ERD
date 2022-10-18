@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-18T04:59:11.463Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="12Ja0EfS8DucIpv3Wmo6" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-18T05:21:04.979Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="J-QhknKZL9HnHU_JF4wb" version="20.4.1" type="github">
   <diagram id="GlsPVDu_xL0HBPR5cxVy" name="Trang-1">
     <mxGraphModel dx="2048" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -78,6 +78,33 @@
         </mxCell>
         <mxCell id="1HRM1dzCH_69js6T7jxJ-14" value="Manufacturer" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="162" y="330" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1HRM1dzCH_69js6T7jxJ-15" value="Name" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="490" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1HRM1dzCH_69js6T7jxJ-16" value="Date&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="690" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1HRM1dzCH_69js6T7jxJ-17" value="address" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="585" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1HRM1dzCH_69js6T7jxJ-18" value="ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="460" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1HRM1dzCH_69js6T7jxJ-19" value="Phone number" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="162" y="670" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1HRM1dzCH_69js6T7jxJ-20" value="Product id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="730" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1HRM1dzCH_69js6T7jxJ-22" value="Manufacturer" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-459" y="680" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1HRM1dzCH_69js6T7jxJ-23" value="Date&amp;nbsp; received" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-630" y="640" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1HRM1dzCH_69js6T7jxJ-24" value="Product name" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-600" y="500" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

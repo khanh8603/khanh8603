@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-26T07:33:56.617Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="KIfM2ieTSRdaZlq2KFbk" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-26T07:35:08.633Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="KYmVVitTriuR3IMWPQbo" version="20.5.1" type="github">
   <diagram id="X12m179IBUtQ8Jf4SLbB" name="Trang-1">
     <mxGraphModel dx="1038" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -103,6 +103,9 @@
         </mxCell>
         <mxCell id="vm2B8cvREQCtLpvL_gkZ-55" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;Customer_ID&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="90" y="700" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Mrgboj7s34KmOfYrmy-F-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="vm2B8cvREQCtLpvL_gkZ-56" target="vm2B8cvREQCtLpvL_gkZ-50">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vm2B8cvREQCtLpvL_gkZ-56" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;Customer name&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="180" y="700" width="90" height="40" as="geometry" />

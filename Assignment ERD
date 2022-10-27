@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-27T08:20:12.970Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="AGtR72y8-6BVrID_Tf7J" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-27T09:23:36.425Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="6ZdYEYuzNRhuekyKsZ21" version="20.5.1" type="github">
   <diagram id="GlsPVDu_xL0HBPR5cxVy" name="Trang-1">
-    <mxGraphModel dx="2048" dy="1803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1865" dy="1708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -339,7 +339,7 @@
         <mxCell id="uJBfVSU9shdUXzuRKUnJ-5" value="Warehouse" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="-220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uJBfVSU9shdUXzuRKUnJ-6" value="Date Received" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="uJBfVSU9shdUXzuRKUnJ-6" value="Date imported" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-10" y="-390" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uJBfVSU9shdUXzuRKUnJ-7" value="Product name" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -465,7 +465,7 @@
             <mxPoint x="270" y="800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="orz0b5AByGj1sehaL932-1" value="1,1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="orz0b5AByGj1sehaL932-1" value="1,1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="145" y="-150" width="60" height="30" as="geometry" />
         </mxCell>
       </root>

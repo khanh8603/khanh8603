@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-28T13:20:27.033Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="z1s6bJifzPmr-UM6cKML" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-28T13:22:12.840Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="kxbEhjuWNzow_l0nDjCi" version="20.5.1" type="github">
   <diagram id="X12m179IBUtQ8Jf4SLbB" name="Trang-1">
     <mxGraphModel dx="1038" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -166,20 +166,22 @@
         <mxCell id="iOu4PlTDOMVu37pBPUBs-1" value="The receipt detail" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="90" y="490" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="iOu4PlTDOMVu37pBPUBs-2" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;u&gt;Product_ID&lt;/u&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="P9czoItqvK_gg8bhHqAy-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="iOu4PlTDOMVu37pBPUBs-2" target="Mrgboj7s34KmOfYrmy-F-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="135" y="590" />
+              <mxPoint x="675" y="590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iOu4PlTDOMVu37pBPUBs-2" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;u&gt;Date&amp;nbsp; received&lt;/u&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="90" y="520" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="iOu4PlTDOMVu37pBPUBs-3" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;Product name&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="iOu4PlTDOMVu37pBPUBs-3" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;Price&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="180" y="520" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="iOu4PlTDOMVu37pBPUBs-4" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;Date received&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="iOu4PlTDOMVu37pBPUBs-4" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;Quantities&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="270" y="520" width="90" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="iOu4PlTDOMVu37pBPUBs-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="iOu4PlTDOMVu37pBPUBs-2" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="70" y="540" as="sourcePoint" />
-            <mxPoint x="110" y="510" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

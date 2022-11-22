@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2022-11-22T02:43:10.732Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="UYy3d1aOAzcajh5KbhQs" version="20.5.3" type="github"><diagram id="6y9qO94y8-QIFHaOcOvy" name="Trang-1">dZHBEoIgEIafhrvCVHY2y0snD50Z2YQZdB2k0Xr6dICMsU4s3/4/y+4SlrfTxfBeXlGAJjQRE2EnQmmasGw+FvJ0ZMeODjRGCS9aQaVeEJyePpSAIRJaRG1VH8Mauw5qGzFuDI6x7I46rtrzBjagqrne0psSVjqa0cPKS1CNDJXTve+v5UHsOxkkFzh+IVYQlhtE66J2ykEvwwtzcb7zn+znYwY6+8MwB+vb8yXaECve</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-22T04:52:02.244Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="QN2MYU40p_4OqBIqqooC" version="20.5.3" type="github">
+  <diagram id="6y9qO94y8-QIFHaOcOvy" name="Trang-1">
+    <mxGraphModel dx="1038" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CcJgX-3sCyBQk0ZpxTx1-1" value="Products" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CcJgX-3sCyBQk0ZpxTx1-2" value="Staff&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CcJgX-3sCyBQk0ZpxTx1-3" value="OrderList" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CcJgX-3sCyBQk0ZpxTx1-4" value="Manufacturer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CcJgX-3sCyBQk0ZpxTx1-5" value="Customers" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CcJgX-3sCyBQk0ZpxTx1-6" value="Order_detail" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="300" width="90" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

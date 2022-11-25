@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-24T03:23:20.103Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="sZix3I00HNSR-n2r9RLX" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-25T17:31:06.987Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="eUnjXTY5mMCMll2SWXZZ" version="20.6.0" type="github">
   <diagram id="RSih3FaJJYSgXtBLaORQ" name="Trang-1">
-    <mxGraphModel dx="1038" dy="1708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1887" dy="2149" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -103,7 +103,7 @@
           <mxGeometry x="80" y="660" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jDE2rfjXoD2ym2S_J-HJ-32" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="80" y="690" width="600" height="60" as="geometry" />
+          <mxGeometry x="80" y="690" width="840" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jDE2rfjXoD2ym2S_J-HJ-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=16;" parent="1" source="jDE2rfjXoD2ym2S_J-HJ-33" target="jDE2rfjXoD2ym2S_J-HJ-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -117,11 +117,11 @@
         <mxCell id="jDE2rfjXoD2ym2S_J-HJ-35" value="Cust_phone" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="320" y="690" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jDE2rfjXoD2ym2S_J-HJ-36" value="Cust_address" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="jDE2rfjXoD2ym2S_J-HJ-36" value="Cust_Street" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="440" y="690" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jDE2rfjXoD2ym2S_J-HJ-37" value="Cust_sex" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="560" y="690" width="120" height="60" as="geometry" />
+          <mxGeometry x="800" y="690" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jDE2rfjXoD2ym2S_J-HJ-39" value="Rei_name" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="320" y="540" width="120" height="60" as="geometry" />
@@ -223,6 +223,12 @@
         </mxCell>
         <mxCell id="jDE2rfjXoD2ym2S_J-HJ-63" value="&lt;u style=&quot;font-size: 16px;&quot;&gt;Staff_id&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="1160" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NFdnPnBVcLgnj-B8UArL-1" value="Cust_Ward&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Cust_Street%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfontSize%3D16%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22440%22%20y%3D%22690%22%20width%3D%22120%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="560" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NFdnPnBVcLgnj-B8UArL-2" value="Cust_Province&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Cust_Street%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfontSize%3D16%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22440%22%20y%3D%22690%22%20width%3D%22120%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphMod&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="680" y="690" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-16T09:24:52.490Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="jgEjL4QrsboxUVP8NQVo" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-16T09:35:18.871Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="Jgw9f3u3QT07Wrav2KoM" version="21.0.6" type="github">
   <diagram name="Trang-1" id="hjgVl16-1eA4XEdSttFT">
     <mxGraphModel dx="2910" dy="1482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,7 +16,7 @@
         <mxCell id="B198eZN8gsjKna0poHcz-6" value="Hóa đơn" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-10" y="567.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="B198eZN8gsjKna0poHcz-12" value="&lt;u&gt;MaNCC&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="B198eZN8gsjKna0poHcz-12" value="&lt;u&gt;MaNXB&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="160" y="-260" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="B198eZN8gsjKna0poHcz-13" value="tên nhà xuất bản" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -54,7 +54,7 @@
           <mxGeometry x="457.5" y="300" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="B198eZN8gsjKna0poHcz-39" value="&lt;u&gt;MaSach&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="685" y="285" width="90" height="60" as="geometry" />
+          <mxGeometry x="580" y="290" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="B198eZN8gsjKna0poHcz-41" value="Số điện thoại" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1217" y="460" width="90" height="60" as="geometry" />
@@ -199,9 +199,6 @@
             <mxPoint x="780" y="596.73" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XF2WHgmEhGcgT6ZEB2XY-28" value="1,1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="510" y="146" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="XF2WHgmEhGcgT6ZEB2XY-30" value="1,n" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="390" y="225" width="60" height="30" as="geometry" />
         </mxCell>
@@ -314,7 +311,7 @@
           <mxGeometry x="530" y="-90" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XF2WHgmEhGcgT6ZEB2XY-65" value="1,1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="470" y="105" width="60" height="30" as="geometry" />
+          <mxGeometry x="450" y="105" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XF2WHgmEhGcgT6ZEB2XY-66" value="&lt;u&gt;MaTacgia&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="450" y="-310" width="90" height="70" as="geometry" />

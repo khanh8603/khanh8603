@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-15T16:14:46.950Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="eKofDmoLZOA1H62uHnXK" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-16T15:21:10.488Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="vZOqyemrh3fl8-n3UFT1" version="21.6.2" type="github">
   <diagram id="DcwCX295_S8bwr2Y1gKf" name="Trang-1">
     <mxGraphModel dx="1877" dy="1742" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -17,9 +17,9 @@
             <mxPoint x="210" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oOVSqev9XxZZ4jdQq9Rk-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="-8CACnTlHhIyUaUUZj3U-1" target="o4LvHtknGYbfKZIHRNse-1" edge="1">
+        <mxCell id="oOVSqev9XxZZ4jdQq9Rk-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="o4LvHtknGYbfKZIHRNse-1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="210" y="390" as="sourcePoint" />
+            <mxPoint x="210" y="370" as="sourcePoint" />
             <mxPoint x="210" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -65,14 +65,17 @@
         <mxCell id="o4LvHtknGYbfKZIHRNse-7" value="False&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="75" y="458" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-8CACnTlHhIyUaUUZj3U-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eK1XvdNj3zP0FnJ8hUPW-6" target="-8CACnTlHhIyUaUUZj3U-1">
+        <mxCell id="-8CACnTlHhIyUaUUZj3U-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="eK1XvdNj3zP0FnJ8hUPW-6" target="RzIz08_3BD2rTWALRAvf-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="210" y="300" as="sourcePoint" />
-            <mxPoint x="210" y="440" as="targetPoint" />
+            <mxPoint x="210" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-8CACnTlHhIyUaUUZj3U-1" value="Input&lt;br&gt;GetString:Manufacturer,&lt;br&gt;phone,IMEI,price,ram,rom,&lt;br&gt;date." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="125" y="290" width="170" height="80" as="geometry" />
+        <mxCell id="RzIz08_3BD2rTWALRAvf-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="RzIz08_3BD2rTWALRAvf-1" target="o4LvHtknGYbfKZIHRNse-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RzIz08_3BD2rTWALRAvf-1" value="User insert the data in the correct variables" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="290" width="120" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

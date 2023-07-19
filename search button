@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-19T14:09:27.777Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="9JZVPPcVnG9ZfFCeSNPe" version="21.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-19T14:24:44.009Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="9M51rxAVhdD_44mzcjtm" version="21.6.3" type="github">
   <diagram id="qHZ9ygSdvllx5fszn9VT" name="Trang-1">
     <mxGraphModel dx="1877" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -26,7 +26,7 @@
         <mxCell id="Vf6qZkjmbuJJoi8QZXSj-6" value="rs" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="295" y="460" width="170" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="Vf6qZkjmbuJJoi8QZXSj-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Vf6qZkjmbuJJoi8QZXSj-6" edge="1">
+        <mxCell id="Vf6qZkjmbuJJoi8QZXSj-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Vf6qZkjmbuJJoi8QZXSj-6" edge="1" target="MeIkFA9RspnmDMG6DCvk-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="510" y="530" as="sourcePoint" />
             <mxPoint x="550" y="510" as="targetPoint" />
@@ -35,8 +35,8 @@
         <mxCell id="Vf6qZkjmbuJJoi8QZXSj-11" value="true" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="470" y="480" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Vf6qZkjmbuJJoi8QZXSj-12" value="GetString a,b,c from id&lt;br&gt;Print Result(a,b,c) to&amp;nbsp;&lt;br&gt;the text boxes" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
-          <mxGeometry x="550" y="480" width="150" height="110" as="geometry" />
+        <mxCell id="Vf6qZkjmbuJJoi8QZXSj-12" value="&lt;br&gt;Print Result(a,b,c) to&amp;nbsp;&lt;br&gt;the text boxes" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
+          <mxGeometry x="770" y="455" width="150" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Vf6qZkjmbuJJoi8QZXSj-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Vf6qZkjmbuJJoi8QZXSj-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -61,11 +61,14 @@
         <mxCell id="DBnYBBeU0rtxjvnzGrHp-5" value="&lt;div&gt;&amp;nbsp; &amp;nbsp; pst=con.PS(&quot;select phone,imei,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Manufacturer,price,ram,rom from&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; database where&amp;nbsp; id=?&quot;)&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ResultSet rs=pst.Executequery()&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="270" width="240" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="0vUi8MtyBNzbmsdSkmjy-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="0vUi8MtyBNzbmsdSkmjy-1" target="Vf6qZkjmbuJJoi8QZXSj-15" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="0vUi8MtyBNzbmsdSkmjy-1" value="END&lt;br&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-140" y="480" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MeIkFA9RspnmDMG6DCvk-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MeIkFA9RspnmDMG6DCvk-1" target="Vf6qZkjmbuJJoi8QZXSj-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MeIkFA9RspnmDMG6DCvk-1" value="GetString a,b,c from id" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="480" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

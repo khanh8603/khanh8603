@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-19T09:13:37.379Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="lv5z1ZhZ21Smpy6vd0Rh" version="21.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-19T09:21:02.771Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="bdLCzvUGP8JGBhljGviN" version="21.6.3" type="github">
   <diagram id="DcwCX295_S8bwr2Y1gKf" name="Trang-1">
     <mxGraphModel dx="1877" dy="1742" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -86,7 +86,7 @@
         <mxCell id="W9vwa_oB4yqlAh0uyPqM-1" value="Save Result to the Database" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
           <mxGeometry x="414" y="705" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="7ArZMOu_lyL_V1uS02CD-3" value="Print Result(&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;Manufacturer,phone,imei,price&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;ram,rom,datechos)&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+        <mxCell id="7ArZMOu_lyL_V1uS02CD-3" value="Print Result(All variable in&amp;nbsp;&lt;br&gt;the table)" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="560" width="170" height="110" as="geometry" />
         </mxCell>
         <mxCell id="7ArZMOu_lyL_V1uS02CD-6" value="print &quot;Add a product&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;failed&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">

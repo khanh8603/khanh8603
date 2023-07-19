@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-19T09:30:36.043Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="hh1TWd5-2pNYJkOOzWD1" version="21.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-19T09:31:46.241Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="areigE8usY_IMh_VRqyH" version="21.6.3" type="github">
   <diagram id="DcwCX295_S8bwr2Y1gKf" name="Trang-1">
     <mxGraphModel dx="1877" dy="1742" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -24,8 +24,8 @@
         <mxCell id="oOVSqev9XxZZ4jdQq9Rk-27" value="Record Addeddd!!!!!" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="480" y="510" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eK1XvdNj3zP0FnJ8hUPW-5" value="SetString:Manufacturer&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;phone,imei.price,ram,rom,date&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="105" y="250" width="210" height="60" as="geometry" />
+        <mxCell id="eK1XvdNj3zP0FnJ8hUPW-5" value="SetString:a,b,c" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="105" y="270" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="W9vwa_oB4yqlAh0uyPqM-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.556;exitY=0.8;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="7ArZMOu_lyL_V1uS02CD-3" target="W9vwa_oB4yqlAh0uyPqM-1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -66,7 +66,7 @@
         <mxCell id="W9vwa_oB4yqlAh0uyPqM-1" value="Save Result to the Database" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
           <mxGeometry x="414" y="705" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="7ArZMOu_lyL_V1uS02CD-3" value="Print Result(All variable in&amp;nbsp;&lt;br&gt;the table)" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
+        <mxCell id="7ArZMOu_lyL_V1uS02CD-3" value="Print Result(a,b,c in&amp;nbsp;&lt;br&gt;the table)" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
           <mxGeometry x="380" y="560" width="170" height="110" as="geometry" />
         </mxCell>
         <mxCell id="7ArZMOu_lyL_V1uS02CD-6" value="print &quot;Add a product&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;failed&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">

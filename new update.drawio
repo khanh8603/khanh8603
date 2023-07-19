@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-19T00:55:47.026Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="n6g86M30lGKvYxtdzrCr" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-19T09:21:54.464Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="SkZZre_2KobJPxSYIUYe" version="21.6.3" type="github">
   <diagram id="kuvdwOfbVBNi5Gu6zfzG" name="Trang-1">
     <mxGraphModel dx="1877" dy="1742" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -25,7 +25,7 @@
         <mxCell id="Y5uSswB-v9rSP0sywz57-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="RJY6VPwGWgeiENAhCizJ-13" target="Y5uSswB-v9rSP0sywz57-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RJY6VPwGWgeiENAhCizJ-13" value="Print Updated result&lt;br&gt;(manufacturer,&lt;br&gt;phone,imei,price,ram,&lt;br&gt;rom,datechos)" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
+        <mxCell id="RJY6VPwGWgeiENAhCizJ-13" value="Print Updated result&lt;br&gt;in the database table" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
           <mxGeometry x="550" y="505" width="120" height="115" as="geometry" />
         </mxCell>
         <mxCell id="RJY6VPwGWgeiENAhCizJ-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="RJY6VPwGWgeiENAhCizJ-20" target="bcdbASTRAcMwNjHkz0l2-1" edge="1">
@@ -51,7 +51,7 @@
         <mxCell id="RJY6VPwGWgeiENAhCizJ-24" value="False" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="210" y="530" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="p27wDWyal36n_LC1DOt--1" value="&lt;div&gt;SetString to the searched id: manufacturer,phone.imei,&lt;/div&gt;&lt;div&gt;ram,rom,thickness,price,length,&lt;/div&gt;&lt;div&gt;width.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="p27wDWyal36n_LC1DOt--1" value="&lt;div&gt;SetString to the searched id&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="285" y="170" width="175" height="80" as="geometry" />
         </mxCell>
         <mxCell id="bcdbASTRAcMwNjHkz0l2-1" value="END" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">

@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-20T01:42:31.611Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="X3RKt4dG2LtmsabE2fMJ" version="21.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-20T01:52:17.254Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="2D8_7o599Cdtl0btYu_L" version="21.6.3" type="github">
   <diagram id="kuvdwOfbVBNi5Gu6zfzG" name="Trang-1">
-    <mxGraphModel dx="1877" dy="1684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1877" dy="1742" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -51,7 +51,7 @@
         <mxCell id="RJY6VPwGWgeiENAhCizJ-24" value="False" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="210" y="530" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="p27wDWyal36n_LC1DOt--1" value="&lt;div&gt;SetString variable with the searched id&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="p27wDWyal36n_LC1DOt--1" value="&lt;div&gt;SetString the variables with the searched id&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="285" y="170" width="175" height="80" as="geometry" />
         </mxCell>
         <mxCell id="bcdbASTRAcMwNjHkz0l2-1" value="END" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-24T15:08:12.021Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="JP7k9tIDNDmUAZgWnDqn" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-24T15:08:41.774Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="dELXiiYWoxJbIiYZUJt_" version="21.6.5" type="github">
   <diagram id="kuvdwOfbVBNi5Gu6zfzG" name="Trang-1">
     <mxGraphModel dx="1050" dy="1742" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -35,7 +35,7 @@
         <mxCell id="3CbPdleRt_05IGa1ygoK-2" value="If there is a value in the &lt;br&gt;database" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="287.5" y="150" width="170" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="3CbPdleRt_05IGa1ygoK-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3CbPdleRt_05IGa1ygoK-5" target="3CbPdleRt_05IGa1ygoK-11">
+        <mxCell id="3CbPdleRt_05IGa1ygoK-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3CbPdleRt_05IGa1ygoK-5" target="3CbPdleRt_05IGa1ygoK-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3CbPdleRt_05IGa1ygoK-5" value="SetString A,B,C&lt;br&gt;from that id" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">

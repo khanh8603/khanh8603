@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-24T10:42:06.111Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="rfsZN3k-mc7NvKFuKFgp" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-24T10:42:52.040Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="9lqq5fIu1OSFWOJJ01FC" version="21.6.5" type="github">
   <diagram id="DcwCX295_S8bwr2Y1gKf" name="Trang-1">
     <mxGraphModel dx="1877" dy="1742" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ym8glejhmzh7Ag_vqQL8-1" value="Start" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="150" y="-10" width="120" height="80" as="geometry" />
+          <mxGeometry x="150" y="-90" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oOVSqev9XxZZ4jdQq9Rk-22" value="END" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="710" width="120" height="80" as="geometry" />
@@ -61,7 +61,7 @@
         <mxCell id="W9vwa_oB4yqlAh0uyPqM-1" value="Save Result to the Database" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
           <mxGeometry x="410" y="705" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="fWaS-r2R2EYxmwqtjbQU-1" value="GetString:a,b,c" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="fWaS-r2R2EYxmwqtjbQU-1" value="Open database" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="105" y="130" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="a2iDcfYNcG-xMiVCRYhz-1" value="Print &quot;Add a product &lt;br&gt;failed&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">

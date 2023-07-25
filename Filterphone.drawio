@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-25T13:00:01.688Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="cVLoYvdIpi_-bTBX28dd" version="21.6.5" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-07-25T13:00:48.446Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="9NS7NTkcaVklv4vceD95" version="21.6.5" type="github" pages="4">
   <diagram name="Filter by manufacturer" id="b0GberjzZ939CXaLA34X">
     <mxGraphModel dx="1050" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -168,7 +168,7 @@
         <mxCell id="uDcUB9js-GKbgMc_Q33v-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uDcUB9js-GKbgMc_Q33v-7" target="uDcUB9js-GKbgMc_Q33v-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uDcUB9js-GKbgMc_Q33v-7" value="Create a statement &quot;&lt;br&gt;Select * from table Order&lt;br&gt;By &#39;table&#39;.&#39;Price&#39;&lt;br&gt;Desc" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="uDcUB9js-GKbgMc_Q33v-7" value="Create a statement &quot;&lt;br&gt;Select * from table Order&lt;br&gt;By &#39;table&#39;.&#39;date&#39;&lt;br&gt;Desc" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="336" y="270" width="156" height="90" as="geometry" />
         </mxCell>
         <mxCell id="uDcUB9js-GKbgMc_Q33v-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uDcUB9js-GKbgMc_Q33v-18" target="uDcUB9js-GKbgMc_Q33v-12">

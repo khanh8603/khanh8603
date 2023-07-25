@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-25T12:43:43.433Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="u_KTk3gmon3TF3v-QdLH" version="21.6.5" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-07-25T12:44:27.207Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Qa0o7_vd2HS4AbMATemf" version="21.6.5" type="github" pages="4">
   <diagram name="Filter by manufacturer" id="b0GberjzZ939CXaLA34X">
     <mxGraphModel dx="1050" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
           <mxGeometry x="354" y="30" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="7AaVf39T8sH8r62OQnQh-3" value="Stop" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="600" width="120" height="80" as="geometry" />
+          <mxGeometry x="360" y="740" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="7AaVf39T8sH8r62OQnQh-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7AaVf39T8sH8r62OQnQh-4" target="7AaVf39T8sH8r62OQnQh-5">
           <mxGeometry relative="1" as="geometry" />
@@ -25,7 +25,7 @@
         <mxCell id="7AaVf39T8sH8r62OQnQh-5" value="Create a statement &quot;&lt;br&gt;Select * from table where&lt;br&gt;manufacturer=Search&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="336" y="270" width="156" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="7AaVf39T8sH8r62OQnQh-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7AaVf39T8sH8r62OQnQh-6" target="7AaVf39T8sH8r62OQnQh-9">
+        <mxCell id="7AaVf39T8sH8r62OQnQh-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7AaVf39T8sH8r62OQnQh-20" target="7AaVf39T8sH8r62OQnQh-9">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="630" y="530" as="targetPoint" />
           </mxGeometry>
@@ -42,7 +42,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7AaVf39T8sH8r62OQnQh-9" value="Show the data from&lt;br&gt;the searched manufacturer&lt;br&gt;to the table" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="515" width="180" height="75" as="geometry" />
+          <mxGeometry x="480" y="640" width="180" height="75" as="geometry" />
         </mxCell>
         <mxCell id="7AaVf39T8sH8r62OQnQh-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="7AaVf39T8sH8r62OQnQh-10">
           <mxGeometry relative="1" as="geometry">
@@ -61,6 +61,15 @@
         </mxCell>
         <mxCell id="7AaVf39T8sH8r62OQnQh-18" value="False" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="294" y="440" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7AaVf39T8sH8r62OQnQh-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7AaVf39T8sH8r62OQnQh-6" target="7AaVf39T8sH8r62OQnQh-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="620" as="targetPoint" />
+            <mxPoint x="474" y="480" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7AaVf39T8sH8r62OQnQh-20" value="Execute the statement" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="510" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

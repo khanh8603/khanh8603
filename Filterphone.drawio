@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-25T13:02:01.255Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="2hfWGEHJyhxuGBg38Kqm" version="21.6.5" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-07-25T13:02:26.572Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="ZsqxhPK30DnqKXziaBn5" version="21.6.5" type="github" pages="4">
   <diagram name="Filter by manufacturer" id="b0GberjzZ939CXaLA34X">
     <mxGraphModel dx="1050" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -195,6 +195,39 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="m8x5dpF3XbqhUDzwfk26-1" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="130" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="m8x5dpF3XbqhUDzwfk26-2" value="Stop" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="670" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="m8x5dpF3XbqhUDzwfk26-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="m8x5dpF3XbqhUDzwfk26-1" target="m8x5dpF3XbqhUDzwfk26-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="220" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m8x5dpF3XbqhUDzwfk26-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="m8x5dpF3XbqhUDzwfk26-5" target="m8x5dpF3XbqhUDzwfk26-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m8x5dpF3XbqhUDzwfk26-5" value="Create a statement &quot;&lt;br&gt;Select * from table Order&lt;br&gt;By &#39;table&#39;.&#39;Price&#39;&lt;br&gt;Desc" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="342" y="270" width="156" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="m8x5dpF3XbqhUDzwfk26-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="m8x5dpF3XbqhUDzwfk26-9" target="m8x5dpF3XbqhUDzwfk26-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m8x5dpF3XbqhUDzwfk26-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="m8x5dpF3XbqhUDzwfk26-8" target="m8x5dpF3XbqhUDzwfk26-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m8x5dpF3XbqhUDzwfk26-8" value="Show Result" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="547" width="180" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="m8x5dpF3XbqhUDzwfk26-9" value="Execute the statement" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

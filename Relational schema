@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-01T14:42:08.731Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="m7pnXMDKp5oIbq1Y1-Xk" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-01T14:42:23.845Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="HAmKz_zQNPy3cq-ABp7t" version="21.6.6" type="github">
   <diagram id="RSih3FaJJYSgXtBLaORQ" name="Trang-1">
     <mxGraphModel dx="1290" dy="1735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -147,7 +147,7 @@
         <mxCell id="jDE2rfjXoD2ym2S_J-HJ-46" value="Staff_Province" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="680" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jDE2rfjXoD2ym2S_J-HJ-47" value="Rei_Ward" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="jDE2rfjXoD2ym2S_J-HJ-47" value="Rei_District" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="680" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jDE2rfjXoD2ym2S_J-HJ-48" value="Rei_Province" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">

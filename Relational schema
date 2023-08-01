@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-01T14:41:43.435Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="fmbiVtLLFNJ60wt_C1MC" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-01T14:42:08.731Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="m7pnXMDKp5oIbq1Y1-Xk" version="21.6.6" type="github">
   <diagram id="RSih3FaJJYSgXtBLaORQ" name="Trang-1">
     <mxGraphModel dx="1290" dy="1735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -49,7 +49,7 @@
           <mxGeometry x="80" y="370" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jDE2rfjXoD2ym2S_J-HJ-16" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="80" y="400" width="840" height="60" as="geometry" />
+          <mxGeometry x="80" y="400" width="720" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jDE2rfjXoD2ym2S_J-HJ-17" value="&lt;u style=&quot;font-size: 16px;&quot;&gt;Staff_id&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="80" y="400" width="120" height="60" as="geometry" />
@@ -62,9 +62,6 @@
         </mxCell>
         <mxCell id="jDE2rfjXoD2ym2S_J-HJ-20" value="Staff_Street" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="440" y="400" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="jDE2rfjXoD2ym2S_J-HJ-21" value="Staff_sex" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="800" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jDE2rfjXoD2ym2S_J-HJ-23" value="Orderlist" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="80" y="510" width="150" height="30" as="geometry" />
@@ -144,7 +141,7 @@
         <mxCell id="jDE2rfjXoD2ym2S_J-HJ-44" value="&lt;u style=&quot;font-size: 16px;&quot;&gt;Cust_id&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="1160" y="540" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jDE2rfjXoD2ym2S_J-HJ-45" value="Staff_Ward" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="jDE2rfjXoD2ym2S_J-HJ-45" value="Staff_District" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="560" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jDE2rfjXoD2ym2S_J-HJ-46" value="Staff_Province" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">

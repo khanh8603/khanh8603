@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-23T04:24:22.058Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="BSEK97y8YFv0QzZ7dDpA" version="22.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-23T04:28:14.724Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="jl3MHCgjGRbaYGw0CTVL" version="22.0.6" type="github">
   <diagram name="Trang-1" id="cpfGCwebBLhZB7NjU35e">
     <mxGraphModel dx="2140" dy="1837" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -50,7 +50,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="83NmvRRUWl_S1o7VBjnZ-11" value="Mua" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="83NmvRRUWl_S1o7VBjnZ-11" value="Bought" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="442.5" y="548.75" width="105" height="97.5" as="geometry" />
         </mxCell>
         <mxCell id="83NmvRRUWl_S1o7VBjnZ-12" value="Book_name" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">

@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-12-13T16:40:40.364Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ahji2PB8ym8VGTnXP-V8" version="22.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-13T16:41:35.708Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="a56vT1B3TeZhBOZfkedp" version="22.1.8" type="github">
   <diagram name="Trang-1" id="YmEPMzQXIAMVqNSswdc6">
     <mxGraphModel dx="1050" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="TkHoTOvifyRZc37jJzjb-2" value="Product" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="490" width="180" height="250" as="geometry" />
+          <mxGeometry x="324" y="480" width="180" height="250" as="geometry" />
         </mxCell>
         <mxCell id="TkHoTOvifyRZc37jJzjb-3" value="+ code:String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="TkHoTOvifyRZc37jJzjb-2">
           <mxGeometry y="26" width="180" height="26" as="geometry" />
@@ -35,7 +35,7 @@
           <mxGeometry y="216" width="180" height="34" as="geometry" />
         </mxCell>
         <mxCell id="TkHoTOvifyRZc37jJzjb-6" value="Order" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="500" width="210" height="450" as="geometry" />
+          <mxGeometry x="30" y="480" width="210" height="450" as="geometry" />
         </mxCell>
         <mxCell id="TkHoTOvifyRZc37jJzjb-7" value="+ orderCode:String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="TkHoTOvifyRZc37jJzjb-6">
           <mxGeometry y="26" width="210" height="26" as="geometry" />
@@ -126,6 +126,15 @@
         </mxCell>
         <mxCell id="TkHoTOvifyRZc37jJzjb-53" value="+isFull():boolean" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="TkHoTOvifyRZc37jJzjb-46">
           <mxGeometry y="130" width="174" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="TkHoTOvifyRZc37jJzjb-55" value="" style="endArrow=diamondThin;endFill=0;endSize=24;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TkHoTOvifyRZc37jJzjb-2" target="TkHoTOvifyRZc37jJzjb-6">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="220" y="320" as="sourcePoint" />
+            <mxPoint x="-28" y="318" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TkHoTOvifyRZc37jJzjb-56" value="1..n" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="450" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

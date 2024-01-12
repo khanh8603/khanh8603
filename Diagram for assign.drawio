@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2024-01-11T08:04:32.920Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 OPR/105.0.0.0" etag="2r5eSVmcMlpjxkalmNck" version="22.1.16" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-01-12T01:32:28.088Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 OPR/105.0.0.0" etag="2t2d-JvpGX8QrXQs6otV" version="22.1.18" type="github" pages="4">
   <diagram name="sơ đồ tư duy của nhân viên" id="AwMW5bjnhjnvqeRRBotU">
-    <mxGraphModel dx="1114" dy="602" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1009" dy="505" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="dzbkotbrd0zJeF_VacGA-1" value="Nhâm viên" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="dzbkotbrd0zJeF_VacGA-1" value="Nhân viên" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="500" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dzbkotbrd0zJeF_VacGA-2" value="Đăng Nhập" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">

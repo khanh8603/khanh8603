@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-18T07:11:19.794Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OPR/106.0.0.0" etag="RE4_0VHe4mFKfCOXmltR" version="22.1.21" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-01-18T07:11:38.095Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OPR/106.0.0.0" etag="jmCa_fnbV7oLChESOHQG" version="22.1.21" type="github" pages="6">
   <diagram name="sơ đồ tư duy của nhân viên" id="AwMW5bjnhjnvqeRRBotU">
     <mxGraphModel dx="1009" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -246,7 +246,7 @@
           <mxGeometry x="-160" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ef5BakWoUezPfbRDGRoR-3" value="Đăng xuất" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="130" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ef5BakWoUezPfbRDGRoR-4" value="Quản lý thông tin cá nhân" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="425" y="240" width="120" height="60" as="geometry" />
@@ -335,6 +335,9 @@
         </mxCell>
         <mxCell id="tMLAmb6dmbfA6OeMTXuQ-1" value="Đăng ký" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-10" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EiwoghEBh-M8XCSFh0W5-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="VGbbY-ZaOI7lIgLbAKUq-1" target="Ef5BakWoUezPfbRDGRoR-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VGbbY-ZaOI7lIgLbAKUq-1" value="Quên mật khẩu" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="240" width="120" height="60" as="geometry" />

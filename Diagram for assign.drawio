@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-18T07:08:56.323Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OPR/106.0.0.0" etag="e-nY5AhsLrZgjBUqeVIf" version="22.1.21" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-01-18T07:09:15.250Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OPR/106.0.0.0" etag="KCF8WHaSXOWZLH17C9B_" version="22.1.21" type="github" pages="6">
   <diagram name="sơ đồ tư duy của nhân viên" id="AwMW5bjnhjnvqeRRBotU">
     <mxGraphModel dx="1009" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -327,7 +327,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ef5BakWoUezPfbRDGRoR-22" value="Thêm sản phẩm" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ef5BakWoUezPfbRDGRoR-22" value="Xem chi tiết sản phẩm" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ef5BakWoUezPfbRDGRoR-28" value="Xem danh sách đơn hàng" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">

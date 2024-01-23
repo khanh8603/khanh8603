@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-23T09:06:42.525Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OPR/106.0.0.0" etag="K1iN90rLMeN88MTTIRe0" version="22.1.21" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-01-23T09:06:55.240Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OPR/106.0.0.0" etag="GSj_Gh4lAzfrN1jxkRP_" version="22.1.21" type="github" pages="10">
   <diagram name="sơ đồ tư duy của nhân viên" id="AwMW5bjnhjnvqeRRBotU">
     <mxGraphModel dx="1009" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1098,7 +1098,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="6fHGuBG2E0WZNihkDQFV" name="DFD Khách hàng ko có TK">
-    <mxGraphModel dx="1009" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1025" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1111,7 +1111,7 @@
         <mxCell id="rN-EYc35-w-dFnsMamp7-1" value="Khách hàng không có tài khoản" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="180" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rN-EYc35-w-dFnsMamp7-2" value="Customer" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;strokeWidth=1;" parent="1" vertex="1">
+        <mxCell id="rN-EYc35-w-dFnsMamp7-2" value="Account" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="810" y="180" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rN-EYc35-w-dFnsMamp7-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="rN-EYc35-w-dFnsMamp7-3" edge="1">

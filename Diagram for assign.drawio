@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-23T07:44:48.896Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OPR/106.0.0.0" etag="8ecXLvY1uAu0NJAk9w12" version="22.1.21" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-01-23T07:45:01.508Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OPR/106.0.0.0" etag="Ug1zcnDzmXMpbUixY-z0" version="22.1.21" type="github" pages="9">
   <diagram name="sơ đồ tư duy của nhân viên" id="AwMW5bjnhjnvqeRRBotU">
     <mxGraphModel dx="1009" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1214,7 +1214,7 @@
         <mxCell id="HTCGNm1cs5S4B9YxTGTF-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HTCGNm1cs5S4B9YxTGTF-7" target="HTCGNm1cs5S4B9YxTGTF-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HTCGNm1cs5S4B9YxTGTF-7" value="&lt;p style=&quot;margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;1&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;Đăng ký&lt;/div&gt;" style="verticalAlign=top;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="HTCGNm1cs5S4B9YxTGTF-7" value="&lt;p style=&quot;margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;1&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;Đăng nhập&lt;/div&gt;" style="verticalAlign=top;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="470" y="200" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HTCGNm1cs5S4B9YxTGTF-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=-0.1;entryY=0.43;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="HTCGNm1cs5S4B9YxTGTF-11" target="HTCGNm1cs5S4B9YxTGTF-13">

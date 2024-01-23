@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-23T09:29:41.229Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OPR/106.0.0.0" etag="jDm4QrYr7etr5YcamQTj" version="22.1.21" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-01-23T09:32:17.824Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OPR/106.0.0.0" etag="FAyP82fth0oF0eSJgRFa" version="22.1.21" type="github" pages="10">
   <diagram name="sơ đồ tư duy của nhân viên" id="AwMW5bjnhjnvqeRRBotU">
     <mxGraphModel dx="1009" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1107,6 +1107,21 @@
         </mxCell>
         <mxCell id="gNdVUp4-21E4TVaxlVF1-4" value="n" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="250" y="250" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gNdVUp4-21E4TVaxlVF1-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="gNdVUp4-21E4TVaxlVF1-5" target="gNdVUp4-21E4TVaxlVF1-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gNdVUp4-21E4TVaxlVF1-5" value="quantity" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="85" y="140" width="75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gNdVUp4-21E4TVaxlVF1-6" value="total_price" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="130" width="75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gNdVUp4-21E4TVaxlVF1-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="gNdVUp4-21E4TVaxlVF1-6" target="gNdVUp4-21E4TVaxlVF1-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="133" y="190" as="sourcePoint" />
+            <mxPoint x="205" y="220" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

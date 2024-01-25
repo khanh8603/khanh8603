@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-25T10:04:30.727Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OPR/106.0.0.0" etag="yDz1RUw7mwyRTmBLLGzA" version="23.0.1" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2024-01-25T10:04:44.951Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OPR/106.0.0.0" etag="UUyLe2tKPmtMTQH8QGSq" version="23.0.1" type="github" pages="12">
   <diagram id="iPD0I-JyhHkBhTlI7yXz" name="Sơ đồ tư duy chủ cửa hàng">
     <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -609,12 +609,6 @@
         </mxCell>
         <mxCell id="Ef5BakWoUezPfbRDGRoR-22" value="Xem chi tiết sản phẩm" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="720" y="340" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="tMLAmb6dmbfA6OeMTXuQ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="tMLAmb6dmbfA6OeMTXuQ-1" target="Ef5BakWoUezPfbRDGRoR-1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="tMLAmb6dmbfA6OeMTXuQ-1" value="Đăng ký" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-10" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EiwoghEBh-M8XCSFh0W5-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="VGbbY-ZaOI7lIgLbAKUq-1" target="Ef5BakWoUezPfbRDGRoR-1" edge="1">
           <mxGeometry relative="1" as="geometry" />

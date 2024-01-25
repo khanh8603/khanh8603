@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-25T09:37:55.854Z" agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/121.0.6167.66 Mobile/15E148 Safari/604.1" etag="Ynvafv2gJtsy8Ea9bUKC" version="23.0.1" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2024-01-25T09:38:43.907Z" agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/121.0.6167.66 Mobile/15E148 Safari/604.1" etag="gnKaxudGGaxTYOUCA7Sq" version="23.0.1" type="github" pages="12">
   <diagram id="iPD0I-JyhHkBhTlI7yXz" name="Sơ đồ tư duy chủ cửa hàng">
-    <mxGraphModel dx="1191" dy="430" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1319" dy="206" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -219,15 +219,6 @@
         <mxCell id="qmIzjTeyMve6l56y8lIk-4" value="Xem danh sách khách hàng" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="510" y="340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qmIzjTeyMve6l56y8lIk-5" value="Thêm,sửa và xóa thông tin khách hàng" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="510" y="430" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="qmIzjTeyMve6l56y8lIk-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="w9oSk5gWGzU4dKSlEUOM-6" target="qmIzjTeyMve6l56y8lIk-5" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="520" y="380" as="targetPoint" />
-            <mxPoint x="500" y="310" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="qmIzjTeyMve6l56y8lIk-7" value="Xem lịch sử đơn hàng của khách hàng" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="510" y="520" width="120" height="60" as="geometry" />
         </mxCell>
@@ -289,7 +280,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="sơ đồ tư duy của nhân viên" id="AwMW5bjnhjnvqeRRBotU">
-    <mxGraphModel dx="154" dy="430" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="991" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />

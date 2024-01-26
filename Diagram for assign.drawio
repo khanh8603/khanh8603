@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-26T09:54:56.238Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OPR/106.0.0.0" etag="uDTyYnLYGZMjaSoUqpUL" version="23.0.2" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2024-01-26T09:57:20.640Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OPR/106.0.0.0" etag="n2J8RSLvy00ZKQo_Txzi" version="23.0.2" type="github" pages="14">
   <diagram id="iPD0I-JyhHkBhTlI7yXz" name="Sơ đồ tư duy chủ cửa hàng">
     <mxGraphModel dx="1859" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -3008,29 +3008,29 @@
             <mxPoint x="320" y="700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e1YM9brkAZAMpneftayn-38" value="Yêu cầu thêm sách" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="e1YM9brkAZAMpneftayn-38" value="Nhập thành công" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="530" y="630" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="e1YM9brkAZAMpneftayn-39" value="Yêu cầu thêm sách" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="350" y="330" width="120" height="30" as="geometry" />
+        <mxCell id="e1YM9brkAZAMpneftayn-39" value="Nhập các thông tin sách mới" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="330" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="e1YM9brkAZAMpneftayn-40" value="Yêu cầu thêm sách" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="530" y="370" width="120" height="30" as="geometry" />
+        <mxCell id="e1YM9brkAZAMpneftayn-40" value="Tạo đối tượng sách mới" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="370" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="e1YM9brkAZAMpneftayn-41" value="Yêu cầu thêm sách" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="660" y="410" width="120" height="30" as="geometry" />
+        <mxCell id="e1YM9brkAZAMpneftayn-41" value="Kiểm tra thông tin sách" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="650" y="410" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="e1YM9brkAZAMpneftayn-42" value="Yêu cầu thêm sách" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="e1YM9brkAZAMpneftayn-42" value="Nhập sách vào CSDL" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="710" y="500" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="e1YM9brkAZAMpneftayn-43" value="Yêu cầu thêm sách" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="e1YM9brkAZAMpneftayn-43" value="Nhập thành công" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="710" y="590" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="e1YM9brkAZAMpneftayn-44" value="Yêu cầu nhập thông tin" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="345" y="280" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="e1YM9brkAZAMpneftayn-45" value="Yêu cầu thêm sách" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="350" y="670" width="120" height="30" as="geometry" />
+        <mxCell id="e1YM9brkAZAMpneftayn-45" value="Thông báo tạo sách thành công" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="322.5" y="670" width="175" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

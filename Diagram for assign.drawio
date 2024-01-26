@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-26T14:14:35.901Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OPR/106.0.0.0" etag="f8JIYtk1Y1lZWJTKLyys" version="23.0.2" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2024-01-26T14:16:12.693Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OPR/106.0.0.0" etag="wPQfas9PpWoIYS0RHoM1" version="23.0.2" type="github" pages="15">
   <diagram id="iPD0I-JyhHkBhTlI7yXz" name="Sơ đồ tư duy chủ cửa hàng">
     <mxGraphModel dx="1859" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -3321,13 +3321,13 @@
         <mxCell id="GogshOlOnruXypFf1hzF-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=block;endFill=0;endSize=14;" edge="1" parent="1" source="64HN3blLMe8K0OLTcmM6-8" target="64HN3blLMe8K0OLTcmM6-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GogshOlOnruXypFf1hzF-16" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=block;endFill=1;strokeWidth=1;endSize=14;" edge="1" parent="1" target="64HN3blLMe8K0OLTcmM6-21">
+        <mxCell id="GogshOlOnruXypFf1hzF-16" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;endFill=0;strokeWidth=1;endSize=14;" edge="1" parent="1" target="64HN3blLMe8K0OLTcmM6-21">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="425" y="430" as="sourcePoint" />
             <mxPoint x="440" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GogshOlOnruXypFf1hzF-20" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=block;endFill=1;strokeWidth=1;endSize=14;exitX=0.526;exitY=1.031;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="GogshOlOnruXypFf1hzF-8" target="64HN3blLMe8K0OLTcmM6-17">
+        <mxCell id="GogshOlOnruXypFf1hzF-20" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;endFill=0;strokeWidth=1;endSize=14;exitX=0.526;exitY=1.031;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="GogshOlOnruXypFf1hzF-8" target="64HN3blLMe8K0OLTcmM6-17">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="420" y="690" as="sourcePoint" />
             <mxPoint x="420" y="760" as="targetPoint" />

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-26T13:31:30.033Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OPR/106.0.0.0" etag="tsK_fTXiJPD-5NUyCee4" version="23.0.2" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2024-01-26T13:42:38.921Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OPR/106.0.0.0" etag="Z9dH3psqRU0ARitMyo2f" version="23.0.2" type="github" pages="15">
   <diagram id="iPD0I-JyhHkBhTlI7yXz" name="Sơ đồ tư duy chủ cửa hàng">
     <mxGraphModel dx="1859" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1617,7 +1617,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1BAF30QiOaTEP6KJSujq" name="ERD">
-    <mxGraphModel dx="1859" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3194,8 +3194,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="BuEJ22bgKl0kHIygOGDL" name="Page-15">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+  <diagram id="BuEJ22bgKl0kHIygOGDL" name="UML">
+    <mxGraphModel dx="1009" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />

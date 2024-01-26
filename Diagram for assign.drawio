@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-26T01:45:02.250Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OPR/106.0.0.0" etag="9dHCL0Z_ICiTgTdUWOXO" version="23.0.1" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2024-01-26T01:45:18.591Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OPR/106.0.0.0" etag="dIzMFFB6L0t2jL-OcZmo" version="23.0.1" type="github" pages="13">
   <diagram id="iPD0I-JyhHkBhTlI7yXz" name="Sơ đồ tư duy chủ cửa hàng">
     <mxGraphModel dx="1858" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2769,7 +2769,7 @@
           <mxGeometry x="1285" y="600" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hZ0paLMZF03rbsF1Amdj-59" value="phản hồi thông tin" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=10;" parent="1" vertex="1">
-          <mxGeometry x="1245" y="710" width="150" height="30" as="geometry" />
+          <mxGeometry x="1255" y="650" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hZ0paLMZF03rbsF1Amdj-60" value="Đưa ra đề nghị hủy đơn&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="790" y="550" width="150" height="30" as="geometry" />

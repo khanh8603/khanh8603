@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-26T13:55:22.040Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OPR/106.0.0.0" etag="ug_T4VajsSkSSTKzpffz" version="23.0.2" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2024-01-26T13:55:36.256Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OPR/106.0.0.0" etag="aNBVToZIZ7XU6mXvrkUT" version="23.0.2" type="github" pages="15">
   <diagram id="iPD0I-JyhHkBhTlI7yXz" name="Sơ đồ tư duy chủ cửa hàng">
     <mxGraphModel dx="1859" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2311,7 +2311,7 @@
         <mxCell id="sOO5z0POSeB3wtSk9JJq-6" value="Nhân viên" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sOO5z0POSeB3wtSk9JJq-7" value="Staff&lt;br&gt;account" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;strokeWidth=1;" parent="1" vertex="1">
+        <mxCell id="sOO5z0POSeB3wtSk9JJq-7" value="Users" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="820" y="70" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sOO5z0POSeB3wtSk9JJq-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="sOO5z0POSeB3wtSk9JJq-10" edge="1">
@@ -2398,7 +2398,7 @@
         <mxCell id="sOO5z0POSeB3wtSk9JJq-32" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="sOO5z0POSeB3wtSk9JJq-33" target="sOO5z0POSeB3wtSk9JJq-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sOO5z0POSeB3wtSk9JJq-33" value="Account" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
+        <mxCell id="sOO5z0POSeB3wtSk9JJq-33" value="Users" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
           <mxGeometry x="810" y="490" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sOO5z0POSeB3wtSk9JJq-34" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=52.5;entryPerimeter=0;" parent="1" source="sOO5z0POSeB3wtSk9JJq-31" target="sOO5z0POSeB3wtSk9JJq-33" edge="1">

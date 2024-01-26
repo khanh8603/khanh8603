@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-26T08:50:43.594Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OPR/106.0.0.0" etag="qwQTeHB2bMqVCuCkwQYa" version="23.0.2" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2024-01-26T09:13:49.041Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OPR/106.0.0.0" etag="TCl8jfUVWM5sbB8PSAnD" version="23.0.2" type="github" pages="13">
   <diagram id="iPD0I-JyhHkBhTlI7yXz" name="Sơ đồ tư duy chủ cửa hàng">
     <mxGraphModel dx="1859" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -292,7 +292,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="sơ đồ tư duy của nhân viên" id="AwMW5bjnhjnvqeRRBotU">
-    <mxGraphModel dx="633" dy="252" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1009" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -647,7 +647,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="KC4gTin0XgVBW7Rekx23" name="Chức năng khách hàng không có tài khoản">
-    <mxGraphModel dx="633" dy="252" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1009" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -697,7 +697,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="16ftv3816fYwIURXoYWj" name="Chức năng khách hàng có tài khoản">
-    <mxGraphModel dx="633" dy="252" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1009" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2778,11 +2778,11 @@
         <mxCell id="hZ0paLMZF03rbsF1Amdj-57" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=52.5;entryPerimeter=0;" parent="1" source="hZ0paLMZF03rbsF1Amdj-54" target="hZ0paLMZF03rbsF1Amdj-56" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hZ0paLMZF03rbsF1Amdj-58" value="Đưa ra thông tin thống kê&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=10;" parent="1" vertex="1">
+        <mxCell id="hZ0paLMZF03rbsF1Amdj-58" value="Đưa ra thông tin thống kê&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="1320" y="835" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hZ0paLMZF03rbsF1Amdj-59" value="phản hồi thông tin" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=10;" parent="1" vertex="1">
-          <mxGeometry x="1292.5" y="910" width="150" height="30" as="geometry" />
+        <mxCell id="hZ0paLMZF03rbsF1Amdj-59" value="phản hồi thông tin" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" parent="1" vertex="1">
+          <mxGeometry x="1320" y="900" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hZ0paLMZF03rbsF1Amdj-60" value="Đưa ra thông tin thống kê" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="810" y="820" width="150" height="30" as="geometry" />

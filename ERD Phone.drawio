@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-01T07:07:18.868Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 OPR/107.0.0.0" etag="NNiJHK6ZicVJQ1W2-S7u" version="24.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-01T07:07:34.165Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 OPR/107.0.0.0" etag="6fRuBPF2KN5a2Cb4PXev" version="24.0.0" type="github">
   <diagram id="6y9qO94y8-QIFHaOcOvy" name="Trang-1">
     <mxGraphModel dx="3672" dy="2253" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -558,7 +558,7 @@
         <mxCell id="3X4e5O5KiJmmOrL0IEAi-14" value="ProductTypeDesc" style="ellipse;whiteSpace=wrap;html=1;align=center;strokeColor=#000000;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="1290" y="169" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3X4e5O5KiJmmOrL0IEAi-16" value="(1,n)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fillStyle=auto;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="3X4e5O5KiJmmOrL0IEAi-16" value="(1,1)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fillStyle=auto;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="660" y="179" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3X4e5O5KiJmmOrL0IEAi-17" value="Imei" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">

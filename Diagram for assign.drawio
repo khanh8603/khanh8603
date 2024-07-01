@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-01T03:44:43.097Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="AQSvZ_oScwAZewkTsZMt" version="24.6.4" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2024-07-01T03:44:56.362Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="7fcym7VLKAjUg71EhmsN" version="24.6.4" type="github" pages="16">
   <diagram id="iPD0I-JyhHkBhTlI7yXz" name="Sơ đồ tư duy chủ cửa hàng">
     <mxGraphModel dx="1859" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -3361,6 +3361,12 @@
             <mxPoint x="370" y="310" as="sourcePoint" />
             <mxPoint x="440" y="280" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="-RX0wb_dfo-gfTBQ0q3R-22" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="nvTdEo5w7ngBvpnaIfQX-3">
+          <mxGeometry x="360" y="240" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-RX0wb_dfo-gfTBQ0q3R-23" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="nvTdEo5w7ngBvpnaIfQX-3">
+          <mxGeometry x="350" y="335" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nvTdEo5w7ngBvpnaIfQX-4" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Quản lý thông tin khách hàng&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="360" y="548" width="220" height="30" as="geometry" />

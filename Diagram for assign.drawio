@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-01T03:43:45.031Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="k9jm3G0Dh0Gj3NdVrcLq" version="24.6.4" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2024-07-01T03:44:43.097Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="AQSvZ_oScwAZewkTsZMt" version="24.6.4" type="github" pages="16">
   <diagram id="iPD0I-JyhHkBhTlI7yXz" name="Sơ đồ tư duy chủ cửa hàng">
     <mxGraphModel dx="1859" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -3300,7 +3300,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="nvTdEo5w7ngBvpnaIfQX-1" value="Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="90" y="730" width="30" height="60" as="geometry" />
+          <mxGeometry x="50" y="720" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nvTdEo5w7ngBvpnaIfQX-3" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
           <mxGeometry x="200" y="540" width="640" height="410" as="geometry" />
@@ -3364,6 +3364,11 @@
         </mxCell>
         <mxCell id="nvTdEo5w7ngBvpnaIfQX-4" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Quản lý thông tin khách hàng&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="360" y="548" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-RX0wb_dfo-gfTBQ0q3R-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" target="nvTdEo5w7ngBvpnaIfQX-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="740" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

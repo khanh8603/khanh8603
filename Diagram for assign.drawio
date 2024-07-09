@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-09T02:43:23.588Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="2qag576_2Te6EaN8o7To" version="24.6.4" type="github" pages="19">
+<mxfile host="app.diagrams.net" modified="2024-07-09T12:50:36.389Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="__cDpQWRYEyIJ5EYQgtv" version="24.6.4" type="github" pages="19">
   <diagram id="iPD0I-JyhHkBhTlI7yXz" name="Sơ đồ tư duy chủ cửa hàng">
     <mxGraphModel dx="1859" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -3510,7 +3510,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="FOnbEHmwJQUgDVGBY1ih" name="Trang-19">
+  <diagram id="FOnbEHmwJQUgDVGBY1ih" name="Use case tìm kiếm sản phẩm">
     <mxGraphModel dx="1050" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />

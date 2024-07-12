@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-12T04:01:26.738Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="IPa1vlTEOlrD5V5Q6bj9" version="24.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-12T04:01:36.899Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="jVKz8KwK2wFHR9qlFe8i" version="24.6.5" type="github">
   <diagram name="Trang-1" id="cpfGCwebBLhZB7NjU35e">
     <mxGraphModel dx="2927" dy="2213" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -383,9 +383,6 @@
         </mxCell>
         <mxCell id="e4tLZi_3ANuUMnh4hoTk-5" value="1,n" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="940" y="530" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="e4tLZi_3ANuUMnh4hoTk-7" value="Rating&amp;nbsp;" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;arcSize=20;fillOpacity=100;direction=east;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="44.5" y="302.5" width="111" height="55" as="geometry" />
         </mxCell>
         <mxCell id="e4tLZi_3ANuUMnh4hoTk-20" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="e4tLZi_3ANuUMnh4hoTk-8" target="83NmvRRUWl_S1o7VBjnZ-3">
           <mxGeometry relative="1" as="geometry" />

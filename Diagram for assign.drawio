@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-14T01:12:56.512Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="YRCaIP2JQeuD5JWOt-vO" version="24.6.5" type="github" pages="20">
+<mxfile host="app.diagrams.net" modified="2024-07-14T01:13:31.086Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="lHF9WiwPJeMxZQLm-_pC" version="24.6.5" type="github" pages="20">
   <diagram id="iPD0I-JyhHkBhTlI7yXz" name="Sơ đồ tư duy chủ cửa hàng">
     <mxGraphModel dx="1859" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1394,8 +1394,8 @@
             <mxPoint x="387.1091270347438" y="616.2132034355943" as="sourcePoint" />
             <mxPoint x="487.92" y="60" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="331" y="1070" />
-              <mxPoint x="1120" y="1070" />
+              <mxPoint x="331" y="840" />
+              <mxPoint x="1120" y="840" />
               <mxPoint x="1120" y="50" />
             </Array>
           </mxGeometry>

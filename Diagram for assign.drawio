@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-14T01:01:05.668Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="9iGPz8FOe9hbDLgEYXBG" version="24.6.5" type="github" pages="20">
+<mxfile host="app.diagrams.net" modified="2024-07-14T01:02:18.520Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="S10-4nJPjePETHX_hRX8" version="24.6.5" type="github" pages="20">
   <diagram id="iPD0I-JyhHkBhTlI7yXz" name="Sơ đồ tư duy chủ cửa hàng">
     <mxGraphModel dx="1859" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -815,8 +815,8 @@
         <mxCell id="BbKa7ltPmRF4flDn4x-G-19" value="Cập nhật thông tin" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="660" y="300" width="130" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="BbKa7ltPmRF4flDn4x-G-20" value="Đổi mật khẩu" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="660" y="340" width="130" height="20" as="geometry" />
+        <mxCell id="BbKa7ltPmRF4flDn4x-G-20" value="Xem các sản phẩm ưa thích của khách hàng" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="650" y="340" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BbKa7ltPmRF4flDn4x-G-21" value="" style="endArrow=open;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="BbKa7ltPmRF4flDn4x-G-5" target="BbKa7ltPmRF4flDn4x-G-20" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">

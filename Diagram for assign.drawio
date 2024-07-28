@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-14T20:07:55.132Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="uLEYDD_OmX3ECTJS6g-N" version="24.6.5" type="github" pages="23">
+<mxfile host="app.diagrams.net" modified="2024-07-28T01:49:00.304Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="PjsAgDJyMrBU7bfkIYPk" version="24.6.5" type="github" pages="23">
   <diagram id="iPD0I-JyhHkBhTlI7yXz" name="Sơ đồ tư duy chủ cửa hàng">
     <mxGraphModel dx="1859" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -801,6 +801,18 @@
         </mxCell>
         <mxCell id="FD6WukajWSrC5z8Jrtck-1" value="Quản lý lịch sử đơn hàng" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1260" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z3gNcfkf-7SdxgmGq87C-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="z3gNcfkf-7SdxgmGq87C-1" target="Ef5BakWoUezPfbRDGRoR-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z3gNcfkf-7SdxgmGq87C-1" value="Đánh giá sản phẩm" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z3gNcfkf-7SdxgmGq87C-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="z3gNcfkf-7SdxgmGq87C-2" target="Ef5BakWoUezPfbRDGRoR-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z3gNcfkf-7SdxgmGq87C-2" value="Bình luân sản phẩm" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1610" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
